@@ -1,9 +1,10 @@
 Pi-found-light
 ===========================
 本代码用于RaspberryPi 3的Python3+OpenCV 3.4.0环境，使用USB串口与Arduino Mega 2560链接
-|Author|hoshinokun|
+
+|Author|HoshinoKun|
 |---|---
-|E-mail|hoshinokirari
+|E-mail|hoshinokun@346pro.club
 
 ## 目录
 * [介绍](#介绍)
