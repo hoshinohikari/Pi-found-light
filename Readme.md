@@ -15,3 +15,11 @@ Pi-found-light
 ------
 这是一个基于树莓派的OpenCV3库RasCamera库调节摄像头参数，使其适应各种环境能够正确寻找到合适颜色的光源的寻光程序，为了解决RaspberryPi的硬件接口上的先天缺陷，我们仅采用树莓派完成寻光工作，而靠串口通讯方法让Arduion做出行动判断。
 由于树莓派采用软件PWM，所以采用树莓派与Arduino之间用I2C总线通信的方法，通过使用Arduino实现硬件PWM的功能
+
+准备
+------
+在树莓派上安装好picamera、serial、opencv库，使用USB连接Arduino。Arduino连接两个带霍尔PID的电机，控制一辆前轮万向的小车。
+
+准备
+------
+进入Python3环境后，直接运行py程序
