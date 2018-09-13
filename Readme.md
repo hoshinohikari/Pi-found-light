@@ -20,6 +20,6 @@ Pi-found-light
 ------
 在树莓派上安装好picamera、serial、opencv库，使用USB连接Arduino。Arduino连接两个带霍尔PID的电机，控制一辆前轮万向的小车。
 
-准备
+运行
 ------
 进入Python3环境后，直接运行py程序
